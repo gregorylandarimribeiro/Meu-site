@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    color: black ;
+}
+
+h2 {
+    text-align: center;
+    color: black;
+
+}
+body {
+    background-color: rgb(170, 238, 144);
+
+}
+.container {
+    position: absolute;
+    left: 32%;
+    color: black;
+    width: 35%;
+    font-size: large;
+}
+
+#coxinha {
+    position: absolute;
+    top: 75%;
+    left: 35%;
+    width: 500px;
+    height: 250px;
+}
