@@ -1,0 +1,18 @@
+<div class="centralizar">
+
+conteudo que vc quer centralizar
+
+</div>
+
+
+cria classe para a div e coloca:
+text-allign: center;
+<div class="centralizar">
+
+conteudo que vc quer centralizar
+
+</div>
+
+
+cria classe para a div e coloca:
+text-allign: center;
