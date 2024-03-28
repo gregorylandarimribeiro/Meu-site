@@ -22,3 +22,10 @@ h3 {
 body {
     background-color: #cfcff7;
 }
+
+.container {
+    position: absolute;
+    text-align: center;
+    width: 80%;
+    right: 10%;
+    }
