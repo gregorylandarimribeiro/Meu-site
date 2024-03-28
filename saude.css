@@ -1,0 +1,33 @@
+h1{
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.container {
+    border: 3px solid;
+    background: linear-gradient(60deg, #6bc1eb,#4a87ea);
+    border-radius: 25px;
+    width: 80%;
+    height: 500px;
+    display: flex;
+    
+}
+
+h3{
+    position:absolute;
+    top: 80%;
+    left: 20%;
+    transform: translate(-10%, -10%);
+
+}
+
+body{
+    display: grid;
+    place-items:center;
+    background-color: rgb(99, 190, 235);
+}
