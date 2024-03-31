@@ -1,0 +1,15 @@
+h1 {
+    color: rgb(238, 114, 242);
+    text-align: center;
+}
+
+div {
+    color: rgb(238, 114, 242);
+
+}
+
+body {
+    background-color: black;
+    display: grid;
+    place-items: center;
+}
