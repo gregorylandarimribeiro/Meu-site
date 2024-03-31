@@ -1,20 +1,33 @@
-h1 {
+p {
     text-align: center;
+    color: #b61edd;
 }
 
-h3 {
-    text-align: center;
-}
+    h1{
+        text-align: center;
+        color: #b61edd;
+    }
 
-.container {
-    position: absolute;
-    width: 80%;
-    left: 10%;
-}
+ li {
+    position:relative;
+    color: #b61edd;
+    left: px;
+ }
 
-h2 {
-    position: relative;
-    text-align: center;
-    width: 90%;
-    left: 5%;
+    h3{
+        text-align: center;
+        color: #b61edd;
+    }
+
+ div {
+    border: 5px solid;
+    border-color:  #b61edd;
+    width: 550px;
+    height: 500px;
+    border-radius: 8px;
 }
+ body {
+    display: grid;
+    place-items: center;
+    background-color: black;
+ }
