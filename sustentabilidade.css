@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+
+.container { 
+    position: relative; 
+    text-align: center;
+    width: 70%;
+    right: 2%;
+    top: 15%;
+}
+
+body {
+    display: grid;
+    place-items: center;
+}
