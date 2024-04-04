@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    color: black;
+}
+
+h3{
+    text-align: center;
+    color: black;
+}
+
+div {
+    border: 5px solid;
+    border-radius: 20px;
+    border-color: black;
+    width: 650px;
+    height: 500px;
+    align-items: center;
+}
+
+body {
+    display: grid;
+    place-items: center;
+    background-color: #A9A9A9;
+}
