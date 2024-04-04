@@ -17,6 +17,28 @@ p {
 
 .container {
     text-align: center;
+}
 
+/* The same declaration repeated several times */
+.warning {
+	font-size: 14px;
+}
 
+.small {
+	font-size: 14;
+}
+
+.footer {
+	font-size: 14px;
+}
+
+img:hover {
+  transform: scale(0.9);
+ 
+}
+
+img {
+  border: 5px solid;
+  border-radius: 30px;
+  border-color: #000000 ;
 }
