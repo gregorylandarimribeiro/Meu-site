@@ -17,15 +17,8 @@ p {
     h3{
         text-align: center;
         color: #b61edd;
-    }
-
- div {
-    border: 5px solid;
-    border-color:  #b61edd;
-    width: 550px;
-    height: 500px;
-    border-radius: 8px;
 }
+
  body {
     display: grid;
     place-items: center;
