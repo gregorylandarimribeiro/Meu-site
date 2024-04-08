@@ -1,16 +1,28 @@
 h1 {
     text-align: center;
+    color: rgb(29, 102, 219);
 }
 
-.container { 
-    position: relative; 
+h2 {
     text-align: center;
-    width: 70%;
-    right: 2%;
-    top: 15%;
+    color: rgb(29, 102, 219);
+}
+
+p {
+    text-align: center;
+    color: rgb(29, 102, 219);
+    position: relative;
+}
+
+div {
+    border: 3px solid rgb(29, 102, 219);
+    width: 550px;
+    height: 500px;
+    border-radius: 8px;
 }
 
 body {
     display: grid;
     place-items: center;
+    background-color: black;
 }
