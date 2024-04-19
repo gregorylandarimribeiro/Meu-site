@@ -1,44 +1,44 @@
+/* Defina a fonte para todo o corpo do texto */
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #ffffff;
+}
+
+/* Estilize os títulos e parágrafos */
 h1 {
-    text-align: center;
-    color: #000000;
-  }
+  text-align: center;
+  color: #000000;
+}
 
 h2 {
-    color: #000000;
+  color: #000000;
 }
 
 p {
-    color: #000000;
+  color: #000000;
 }
 
-  body{
-    background-color: #ffffff;
-  }
-
+/* Centralize o conteúdo da classe 'container' */
 .container {
-    text-align: center;
+  text-align: center;
 }
 
-/* The same declaration repeated several times */
-.warning {
-	font-size: 14px;
-}
-
-.small {
-	font-size: 14;
-}
-
-.footer {
-	font-size: 14px;
-}
-
-img:hover {
-  transform: scale(0.9);
- 
-}
-
+/* Adicione transição suave para todas as imagens */
 img {
   border: 5px solid;
   border-radius: 30px;
-  border-color: #000000 ;
+  border-color: #000000;
+  transition: transform 0.3s ease;
 }
+
+img:hover {
+  transform: scale(0.9) translateY(-5px);
+}
+
+/* Restante do código */
+.warning,
+.small,
+.footer {
+  font-size: 14px;
+}
+
